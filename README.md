@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anas and I'm a Computer Science student, from Jordan</h2>
+<h2 align="left">Hi 👋! My name is Anas and I hold a bacheoler degree in computer science, from Jordan</h2>
 
 ###
 
